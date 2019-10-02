@@ -27,7 +27,7 @@ nav ul {
   color: #fff;
 }
 
-[src$^=.html] {
+src$^=.html {
   background-color: #719e07;
 }
 
