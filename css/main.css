@@ -9,14 +9,13 @@ header, footer {
 
 header > nav > ul {
   font-family: sans-serif;
-  background-color: #eee8d5;
 }
 
 .logo {
   text-transform: uppercase;
 }
 
-.wrapper {
+.wrapper ul li:first-child{
   background-color: #eee8d5;
 }
 
