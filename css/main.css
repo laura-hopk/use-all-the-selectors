@@ -26,11 +26,12 @@ nav ul {
 .wrapper > .dfn {
   background-color: #b58900;
 }
+
 .wrapper > .dfn > strong {
   color: #fff;
 }
 
-ul li:not(#no-highlight){
+ul li:not(#no-highlight) {
   background-color: #719e07;
 }
 
@@ -39,7 +40,7 @@ ul li:not(#no-highlight){
 }
 
 ul li:last-child {
-  background-color:#2694d8;
+  background-color: #2694d8;
 }
 
 ol li:first-child {
