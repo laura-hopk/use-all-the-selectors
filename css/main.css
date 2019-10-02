@@ -38,7 +38,7 @@ ul li:not(#no-highlight){
   background-color: #719e07;
 }
 
-ul li > .external {
+ul li:last-child {
   background-color:#2694d8;
 }
 
