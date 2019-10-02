@@ -9,6 +9,7 @@ header, footer {
 
 header > nav > ul {
   font-family: sans-serif;
+  background-color: #93a1a1;
 }
 
 .logo {
