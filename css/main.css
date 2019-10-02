@@ -16,7 +16,7 @@ nav ul {
 }
 
 .wrapper {
-  background-color: ##b58900;
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types {
@@ -24,7 +24,7 @@ nav ul {
 }
 
 .wrapper > .dfn {
-  color: #fff;
+  color: ##b58900;
 }
 
 src$^=.html {
