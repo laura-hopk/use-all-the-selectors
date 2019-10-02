@@ -15,7 +15,7 @@ header > nav > ul {
   text-transform: uppercase;
 }
 
-.wrapper ul li:first-child{
+.wrapper {
   background-color: #eee8d5;
 }
 
