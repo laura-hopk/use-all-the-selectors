@@ -24,7 +24,7 @@ nav ul {
 }
 
 .wrapper > .dfn {
-  color: #b58900;
+  background-color: #b58900;
 }
 .wrapper > .dfn > strong {
   color: #fff;
