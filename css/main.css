@@ -30,3 +30,7 @@ nav ul {
 [src$^=.html] {
   background-color: #719e07;
 }
+
+#favs {
+  background-color: #719e07;
+}
